@@ -1,0 +1,9 @@
+[
+  {
+    "name": "unauthorized",
+    "path": "/unauthorized",
+    "component": "C:\\\\laragon\\\\www\\\\project\\\\hub\\\\pages\\\\unauthorized.vue",
+    "chunkName": "pages/unauthorized",
+    "_name": "_a986be5c"
+  }
+]
